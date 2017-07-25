@@ -4,9 +4,14 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.aleggeup.webapp</groupId>
+    <parent>
+        <groupId>com.aleggeup.webapp</groupId>
+        <artifactId>inspiring-nitrogen-viper-parent</artifactId>
+        <version>0.9.0-SNAPSHOT</version>
+        <relativePath>../inspiring-nitrogen-viper-parent/pom.xml</relativePath>
+    </parent>
+
     <artifactId>inspiring-nitrogen-viper-frontend</artifactId>
-    <version>0.9.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
