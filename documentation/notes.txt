@@ -1,3 +1,21 @@
+Stylesheets to try:
+ - animate.css
+ - bootstrap.css
+ - font-awesome.css
+ - metisMenu.css
+ - metis-canvas.css
+
+Libraries to try:
+ - jquery.min.js
+ - bootstrap.min.js
+ - moment.min.js
+ - metisMenu.min.js
+ - metis-canvas.min.js
+ - screenfull.min.js
+ - loaders.css.js
+ - in-view.min.js
+
+
 * ng-bootstrap
  - is still alpha
  - alpha.6 breaks navbar
