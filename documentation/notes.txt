@@ -27,3 +27,10 @@ Off Canvas options
 * Pushy - https://github.com/christophery/pushy
    - bower install pushy
 
+* scotch-panels - https://github.com/scotch-io/scotch-panels
+
+* off.convas - https://github.com/AidanZealley/off.canvas
+
+* jQuery.mmenu - http://mmenu.frebsite.nl/on-and-off-canvas.html
+
+
