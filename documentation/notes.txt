@@ -10,7 +10,6 @@ Libraries to try:
  - bootstrap.min.js
  - moment.min.js
  - metisMenu.min.js
- - metis-canvas.min.js
  - screenfull.min.js
  - loaders.css.js
  - in-view.min.js
@@ -20,3 +19,11 @@ Libraries to try:
  - is still alpha
  - alpha.6 breaks navbar
  - too much trouble for now
+
+Off Canvas options
+* metis-canvas.js - https://github.com/metisadmin/metis-canvas (basic off canvas)
+   - npm install --save metis-canvas
+
+* Pushy - https://github.com/christophery/pushy
+   - bower install pushy
+
