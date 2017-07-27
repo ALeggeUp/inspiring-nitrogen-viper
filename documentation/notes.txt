@@ -1,0 +1,4 @@
+* ng-bootstrap
+ - is still alpha
+ - alpha.6 breaks navbar
+ - too much trouble for now
