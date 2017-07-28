@@ -28,6 +28,8 @@ Off Canvas options
    - bower install pushy
 
 * scotch-panels - https://github.com/scotch-io/scotch-panels
+   - looks good, but still incomplete
+   - no easy package install for build system?
 
 * off.convas - https://github.com/AidanZealley/off.canvas
 
