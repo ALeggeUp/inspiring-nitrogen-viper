@@ -35,4 +35,5 @@ Off Canvas options
 
 * jQuery.mmenu - http://mmenu.frebsite.nl/on-and-off-canvas.html
 
-
+* metisMenu
+   - I don't like how the arrows point, seems wrong
