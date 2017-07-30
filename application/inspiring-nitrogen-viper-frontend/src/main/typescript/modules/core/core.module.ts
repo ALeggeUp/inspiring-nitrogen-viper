@@ -12,16 +12,19 @@ import { CommonModule } from '@angular/common';
 
 import { LoggerService } from './services/logger.service';
 import { NavComponent } from './nav/nav.component';
+import { NavBrandComponent } from './nav/brand/brand.component';
 
 @NgModule({
   declarations: [
-    NavComponent
+    NavComponent,
+    NavBrandComponent
   ],
   imports: [
     CommonModule
   ],
   exports: [
-    NavComponent
+    NavComponent,
+    NavBrandComponent
   ],
   providers: [
     LoggerService
